@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saidislombek</h1>
-<h3 align="center">A data scientist from Uzbekistan</h3>
+<h3 align="center">Data Scientist from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **PyTorch, NLP ...**
 
