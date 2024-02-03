@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saidislombek</h1>
 <h3 align="center">Data Scientist from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **PyTorch, NLP ...**
+- 🌱 I’m currently learning **NLP ...**
 
 - 💬 Ask me about **Python, Algorithms, Problem Solving, Data Engineering**
 
