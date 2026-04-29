@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saidislombek&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20NLP%20%7C%20Speech%20%7C%20Web&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saidislombek&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20NLP%20%7C%20ML%20%7C%20Web&descAlignY=58&descSize=20" width="100%"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=O%E2%80%98zbek+tili+AI+muhandisi+%F0%9F%87%BA%F0%9F%87%BF;NLP+%E2%80%A2+TTS+%E2%80%A2+Fonetik+annotatsiya;Django+%E2%80%A2+PyTorch+%E2%80%A2+Python;Speech+synthesis+tadqiqotchisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=AI+Engineer+%F0%9F%87%BA%F0%9F%87%BF;NLP+%E2%80%A2+Machine+Learning+%E2%80%A2+Computer+Vision;Django+%E2%80%A2+PyTorch+%E2%80%A2+Python;Building+AI+for+low-resource+languages" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,11 +12,9 @@
 
 ## 👨‍💻 About me
 
-AI engineer focused on building language and speech technology for the **Uzbek language** — an under-resourced language with a rich phonological structure.
+AI engineer focused on **natural language processing**, **machine learning**, and **web development**.
 
-- 🔬 &nbsp;Building TTS, phoneme annotation and NLP pipelines for Uzbek
-- 🧠 &nbsp;Interests: Speech synthesis · Forced alignment · LLMs · Computer Vision
-- 🌐 &nbsp;Live projects: **[orfo.uz](https://orfo.uz)** · **[fonem.uz](https://fonem.uz)**
+- 🧠 &nbsp;Interests: NLP · LLMs · Computer Vision · Data Engineering
 - 📬 &nbsp;Reach me at **saidislombek.dev@gmail.com**
 - 🇺🇿 &nbsp;Based in Uzbekistan
 
@@ -32,13 +30,6 @@ AI engineer focused on building language and speech technology for the **Uzbek l
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Speech & Audio**
-
-![VITS](https://img.shields.io/badge/VITS-TTS-6366F1?style=flat-square)
-![F5--TTS](https://img.shields.io/badge/F5--TTS-8B5CF6?style=flat-square)
-![MFA](https://img.shields.io/badge/Montreal_FA-10B981?style=flat-square)
-![NLLB](https://img.shields.io/badge/NLLB--200-0EA5E9?style=flat-square)
 
 **Web & Data**
 
@@ -66,14 +57,6 @@ AI engineer focused on building language and speech technology for the **Uzbek l
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saidislombek-abdusamatov&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saidislombek-abdusamatov/saidislombek-abdusamatov/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 ---
